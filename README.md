@@ -11,4 +11,12 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VenusYadav/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
