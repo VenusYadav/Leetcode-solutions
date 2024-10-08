@@ -24,4 +24,12 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
