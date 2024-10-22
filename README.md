@@ -33,6 +33,7 @@ Add Your leetcode Solutions Here to Help beginners.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,12 @@ Add Your leetcode Solutions Here to Help beginners.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
