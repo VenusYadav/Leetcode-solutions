@@ -24,6 +24,7 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +59,12 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
