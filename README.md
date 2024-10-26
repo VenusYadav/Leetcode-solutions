@@ -10,6 +10,7 @@ Add Your leetcode Solutions Here to Help beginners.
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VenusYadav/Leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
@@ -35,6 +36,7 @@ Add Your leetcode Solutions Here to Help beginners.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,8 +66,13 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
