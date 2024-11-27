@@ -17,6 +17,7 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -65,9 +66,11 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
+| [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -79,4 +82,8 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
