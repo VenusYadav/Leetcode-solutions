@@ -1,43 +1,34 @@
 class Solution {
 public:
-    queue<char>q;
-    map<char, int>freq;
-    char ans = '#';
     int firstUniqChar(string s) {
-        for(auto ch: s)
+
+        map<int, int> freq;
+        queue<int>q;
+        int ans;
+
+        for(int i=0;i<s.length();i++)
         {
-            freq[ch]++;
-            
-            q.push(ch);
+            freq[s[i] -'a']++ ;
+
+            q.push(i);
             while(!q.empty())
             {
-                if(freq[q.front()] > 1)
-                   q.pop();
+                if(freq[s[q.front()]-'a'] > 1)
+                  q.pop();
 
                 else
                 {
-                     ans = q.front(); 
-                     break;
-                }   
-            } 
-            if(q.empty())
-              ans = '#';
-           
-        }
-        
-        int index ;
-        for(int i=0; i<s.length(); i++)
-        {
-            if(ans == s[i])
-            {
-                index = i;
-                break;
+                    ans = q.front(); 
+                    break; 
+                }
+                  
             }
-            else
-              index = -1;   
+
         }
-  
-        return index ;
+        if(q.empty())
+           return -1;
+        else   
+           return ans;
         
     }
 };
