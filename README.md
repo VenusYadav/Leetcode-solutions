@@ -35,6 +35,7 @@ Add Your leetcode Solutions Here to Help beginners.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0134-gas-station](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
@@ -86,4 +87,8 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
