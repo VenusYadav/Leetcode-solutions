@@ -109,10 +109,12 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +123,5 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
