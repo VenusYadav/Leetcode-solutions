@@ -27,6 +27,8 @@ public:
             {
                 resultVec.push_back(vec);
             }
+
+            else return ;
         } 
 
         solve(root->left, targetSum, sum, vec, resultVec);
