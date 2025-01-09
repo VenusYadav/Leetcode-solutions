@@ -40,6 +40,7 @@ Add Your leetcode Solutions Here to Help beginners.
 | [0189-rotate-array](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0274-h-index) |
+| [0560-subarray-sum-equals-k](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VenusYadav/Leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -89,6 +90,7 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Add Your leetcode Solutions Here to Help beginners.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VenusYadav/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
